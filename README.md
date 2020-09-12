@@ -1,11 +1,11 @@
 # AudioWhatsapp 2x
-Audios do whatsapp em 2x.
+🚀 Audios do whatsapp em 2x. 🚀
 
- Projeto feito por Marcos Jesus
+ # Projeto feito por Marcos Jesus 🧑‍🔧
 
 
-O que faz:
-
+   
+🤳🏻  O que faz:
 Ele acelera os áudios do whatsapp em 2x, sabe aquele áudio de 2 minutos ?
 Agora você poderá escuta-lo sem perder muito tempo.
 
